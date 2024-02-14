@@ -1,0 +1,62 @@
+#divo{
+    background: red;
+}
+.div1 {
+    background: green;
+    width: 300px;
+    margin: auto;
+}
+.div2{
+    background-color: yellow;
+}
+.div3{
+    background-color: blue;
+}
+.div4{
+    background-color: brown;
+}
+
+.div5{
+    background-color: yellow;
+}
+.div6{
+    background-color: blue;
+}
+.div7{
+    background-color: brown;
+}
+.div5,
+.div6,
+.div7{
+    display: grid;
+    grid-template-columns: 33% 33%;
+    float: left;
+    width: 300px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+    .container{
+        margin-left: 150px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
